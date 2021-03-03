@@ -22,5 +22,5 @@
 - re
 - BytesIO
 - requests
-- matplotlib.pyplot as plt
-- seaborn as sns
+- matplotlib
+- seaborn 
