@@ -53,4 +53,3 @@
 - matplotlib
 - seaborn
 - scipy
-- functools
